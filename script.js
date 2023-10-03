@@ -6,7 +6,7 @@
 
 //These are variables that are constant for the random generator
 const MIN = 1; 
-const MAX = 100; 
+const MAX = 5; 
 
 //These are global variables used in both functions
 rand ="";
